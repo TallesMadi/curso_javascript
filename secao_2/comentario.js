@@ -1,0 +1,7 @@
+// Comentário
+/**
+ * Comentário Grande
+ */
+/*
+Documentação
+*/
