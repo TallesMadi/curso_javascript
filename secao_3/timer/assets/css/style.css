@@ -53,10 +53,10 @@ form button {
   margin-top: 30px;
 }
 
-h2 {
-  font-size: 4em;
-}
-
 form button:hover {
   background: var(--primary-color-darker);
+}
+
+.resultado {
+  font-size: 3em;
 }
