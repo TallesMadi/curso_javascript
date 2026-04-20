@@ -3,7 +3,7 @@ const numeros = [5, 50, 80, 1, 2, 3, 5, 9, 7, 11, 15, 22, 27];
 // filter(valor, indice, array)
 // const numerosFilter = numeros.filter(valor => valor > 10);
 const numerosFilter = numeros.filter((valor, indice, array) => {
-    console.log(valor, indice);
+    console.log(valor, indice, array);
     return valor > 10;
 });
 console.log(numerosFilter);
